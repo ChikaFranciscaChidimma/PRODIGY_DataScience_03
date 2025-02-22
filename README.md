@@ -34,5 +34,5 @@ For questions or collaborations, feel free to reach out!
 Want to enhance this project? Feel free to fork the repo, explore, and submit a pull request!
 
 📜 License
-This project is open-source and licensed under the MIT License.
+This project is open-source and licensed under the Apache-2.0 license.
 
